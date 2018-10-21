@@ -14,8 +14,48 @@ Aqui será ensinado a prática, hábitos e mentalidade para aprender o idioma in
 
 -------
 
-## VERIFIQUE QUAL SEU NÍVEL DE INGLÊS
+## QUAL SEU NÍVEL DE INGLÊS
 Calma, não será baseado em _quizzes_ malucos que existem na internet, compreendendo o seu nível baseado nas distinções abaixo você saberá exatamente qual rotina seguir.
+
+Antes de tudo, gostaria de informar o que será avaliado:
+* Leitura
+* Compreensão oral
+* Escrita
+* Fala
+
+### INICIANTE
+
+#### `LV. 0` INICIANTE - NENHUM CONHECIMENTO
+São aqueles que ao escutarem um texto básico em inglês entendem somente algumas palavras soltas ou nada.
+
+Aprendem na escola ou no dia a dia, frases populares em inglês tais como:
+```
+Good night
+What’s your name?
+My name is...
+```
+
+* **Leitura:** Não possui.
+* **Compreensão oral:** Não possui
+* **Escrita:** Não possui.
+* **Fala:** Não possui.
+
+#### `LV. 1` INICIANTE - CONHECIMENTO BÁSICO
+São aqueles que conseguem com um pouco de esforço entender textos básicos em inglês e compreendem falas mais simples vistas em filmes, mas não conseguem entender áudios não feitos para o estudo do inglês ou textos mais complexos.
+
+
+por exemplo (falas simples vistas em filmes e frase básica):
+```
+I’ll be back
+I see dead people
+May the force be with you
+Everyone wants to live. Everyone wants to fulfill their dreams. Life is beautiful.
+```
+
+* **Leitura:** Entendimento de textos básicos.
+* **Compreensão oral:** Não possui
+* **Escrita:** Não possui.
+* **Fala:** Não possui.
 
 -------
 
