@@ -57,6 +57,61 @@ Everyone wants to live. Everyone wants to fulfill their dreams. Life is beautifu
 * **Escrita:** Não possui.
 * **Fala:** Não possui.
 
+### INTERMEDIÁRIO
+
+#### `LV. 7` INTERMEDIÁRIO - CONHECIMENTO RAZOÁVEL
+> Mas como assim!? nível 7? acima estávamos no nível 1!
+
+Calma jovem, para você  chegar no `LV. 7` você teve um caminho percorrido, por isso não coloquei "`LV. 2`" considere isso um valor simbólico.
+
+_continuando..._
+
+São aqueles que conseguem ler razoavelmente bem, dependendo do texto pode entender quase tudo ou nada. E uma fase instável onde uma hora você se sente sabendo tudo de inglês e na outra você acha que não sabe nada.
+
+Na compreensão oral possuem um entendimento básico, conseguem entender facilmente falas simples em inglês e como ocorrer em textos, possuem um entendimento variado onde pode entender tudo ou nada.
+
+Talvez possam entender quase tudo desse vídeo:
+```
+[New Headway Video 01]
+https://www.youtube.com/watch?v=CAXLA5lavG8
+```
+Mas talvez não entendam quase nada desse vídeo:
+```
+[Don't Go In That Door!]
+https://www.youtube.com/watch?v=nkpgzPsllAo
+```
+
+* **Leitura:** Entendimento razoável.
+* **Compreensão oral:** Entendimento básico.
+* **Escrita:** Não possui.
+* **Fala:** Não possui.
+
+#### `LV. 15` INTERMEDIÁRIO - BOM CONHECIMENTO
+São aqueles que conseguem ler e escutar a maioria dos conteúdos com pelo menos 50% de entendimento, esse é o ponto onde começam a ter o famoso "prazer imediato", o inglês começa a deixar de ser chato e cansativo. Já começam a ter um certo nível de escrita e dar seus primeiros passos para uma conversação pelo menos básica.
+
+> É um dos níveis mais importantes
+
+Conteúdos que podem agradar:
+  * Séries e Filmes (pode ter a necessidade de usar legenda ou não)
+  * Audiolivros
+  * Podcasts que não são destinados ao estudantes de inglês 
+
+Talvez possam entender quase tudo desse vídeo:
+```
+[Marvel’s Daredevil: Season 3 | Official Trailer [HD] | Netflix]
+https://www.youtube.com/watch?v=n83s6NO1NE0
+```
+Mas talvez com um conteúdo mais informal não compreendam muita coisa:
+```
+[Professor vs Trash Talker 1v1 for $100.. EPIC beach court]
+https://www.youtube.com/watch?v=75DHx3Z-FbM
+```
+
+* **Leitura:** Bom entendimento.
+* **Compreensão oral:** Bom entendimento.
+* **Escrita:** Entendimento razoável.
+* **Fala:** Entendimento razoável.
+
 -------
 
 ## ROTINA A SEGUIR
