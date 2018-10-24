@@ -112,6 +112,28 @@ https://www.youtube.com/watch?v=75DHx3Z-FbM
 * **Escrita:** Entendimento razoável.
 * **Fala:** Entendimento razoável.
 
+### AVANÇADO
+
+#### `LV. 25` AVANÇADO - ÓTIMO CONHECIMENTO
+São aqueles que conseguem ler facilmente e escutar a maioria dos conteúdos com pelo menos 70% de entendimento. 
+
+> É nesse ponto que você deve focar em melhorar a sua fala
+
+Nesse nível se encontra a "porta para fluência" ou como eu venho falando aqui até agora: **proficiência**.
+
+Além desse nível existem diversos outros acima, mas será aqui até onde você precisará de ajuda. Acima desse nível certamente você já se encontra confortável com o inglês.
+
+Vídeos como o abaixo precisam ser facilmente compreendidos, pelo menos 70%.
+```
+[Why Meat is the Best Worst Thing in the World]
+https://www.youtube.com/watch?v=NxvQPzrg2Wg
+```
+
+* **Leitura:** Ótimo entendimento.
+* **Compreensão oral:** Ótimo entendimento.
+* **Escrita:** Bom conhecimento.
+* **Fala:** Bom conhecimento.
+
 -------
 
 ## ROTINA A SEGUIR
