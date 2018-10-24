@@ -167,6 +167,31 @@ De caráter fantástico e/ou fictício, as lendas e mitos combinam fatos reais e
 
 Abaixo você irá ver uma sequência de mitos e lendas sobre o aprendizado do inglês, e como todas elas são refutadas.
 
+#### 💀 MITO 1
+> **"Só irei aprender inglês quando sair do Brasil."**
+
+Esse e um dos mais comuns entre leigos no estudo de idiomas. Morar no exterior ajuda, em um país de língua inglesa você a percebe particularidades da cultura do povo, também ajuda você a perceber a língua sendo usada em inúmeros contextos e situações do cotidiano, mas essa questão está longe de ser “tudo ou nada.”
+
+Há diversas pessoas que nunca saíram do país e possuem um bom nível de proficiência no inglês, ao mesmo tempo que existem diversos brasileiros morando no exterior que mal conseguem alcançar o nível intermediário.
+
+O que te faz aprender inglês e a **imersão** que você cria ao seu redor, com todos os recursos disponíveis atualmente você pode facilmente ter uma grande imersão e claro a sua vontade e tempo dedicado ao aprendizado.
+
+#### 💀 MITO 2
+> **"Inglês e muito difícil de se aprender."**
+
+O inglês tem suas dificuldades como qualquer outra coisa que você pare para aprender. Nós brasileiros temos uma posição privilegiada quando o assunto e aprender inglês, já pensou um chinês tentando aprender inglês? com o vocabulário totalmente distinto, já os brasileiros possuem diversas palavras parecidas tais como:
+```
+Attention
+Animation
+Consume
+Station
+```
+Tenho certeza que mesmo que você não saiba nada de inglês, algumas dessas palavras acima você entendeu.
+
+Sem contar as diferenças culturais, como por exemplo entre um árabe com um americano, enquanto brasileiros possuem muitas semelhanças culturais. O idioma e a cultura andam lado a lado.
+
+Pare de reclamar de barriga cheia e comece a aprender inglês agora mesmo.
+
 -------
 
 ## O SEGREDO
