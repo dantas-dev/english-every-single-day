@@ -192,6 +192,11 @@ Sem contar as diferenças culturais, como por exemplo entre um árabe com um ame
 
 Pare de reclamar de barriga cheia e comece a aprender inglês agora mesmo.
 
+#### 💀 MITO 3
+> **"Só serei fluente quando falar com sotaque de nativo."**
+
+Em breve.
+
 -------
 
 ## O SEGREDO
