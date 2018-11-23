@@ -5,6 +5,8 @@
 
 O principal propósito deste repositório e mostrar maneiras para alcançar a proficiência no inglês.
 
+> **Aviso**: O repositório irá ficar sem atualização por algum tempo, devido a compromissos profissionais, mas pretendo voltar a atualizar em dezembro.
+
 ## INTRODUÇÃO
 A língua inglesa é imprescindível nos dias atuais, pois a globalização faz com que se torne algo fundamental. O inglês é a língua internacional, a língua dos estudos, das viagens, dos negócios, a língua da comunicação com todo o mundo.
 
